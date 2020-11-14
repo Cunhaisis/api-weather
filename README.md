@@ -1,11 +1,8 @@
 # Api - Weather
 
-
-Angular
-NGRX
-API: https://openweathermap.org/ 
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+
+API: https://openweathermap.org/ 
 
 ## Development server
 Run npm install para baixar as depêndencias. 
