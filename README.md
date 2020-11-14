@@ -1,10 +1,16 @@
-# JvWeather
+# Api - Weather
+
+
+Angular
+NGRX
+API: https://openweathermap.org/ 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
+Run npm install para baixar as depêndencias. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` para iniciar o projeto no servidor. Acesse pelo Link `http://localhost:4200/`.
 
 ## Code scaffolding
 
